@@ -1,0 +1,17 @@
+#mavenSerialRead 1.1
+target/
+!target/lib
+/src/test
+nbactions.xml
+nbactions-release-profile.xml
+
+
+pom.xml.tag
+
+release.properties
+
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file 
+!/.mvn/wrapper/maven-wrapper.jar
